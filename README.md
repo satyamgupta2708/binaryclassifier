@@ -103,8 +103,33 @@ II) **[Opencv library](https://pypi.org/project/opencv-python/)** :   it is a li
 10)**accuracy()**:- it calculates the accuracy of the classification done by the machine .
                          It returns the list of predicted label.
  
- ![]()
+ ![](https://github.com/satyamgupta2708/binaryclassifier/blob/master/accuracy.png)
  
+11)**Training():**-It is the function which calls the other function as required to produce the 
+                       desired output .It works upon the training dataset to produce the accuracy  
+                      of the machine on training dataset .
+
+![](https://github.com/satyamgupta2708/binaryclassifier/blob/master/training.png)
+
+
+12)Validation():-it is the function which works similar to the training function only
+                          difference being is that it works on validation dataset and produce 
+                          accuracy of the machine for predicting output on validation dataset. 
+
+![](https://github.com/satyamgupta2708/binaryclassifier/blob/master/validation.png)
+
+Sources used :
+All the sources used are mostly hyper linked above with their key words apart from that 
+doubts forums have been continuously checked in case of errors encountered during coding of the project.
+
+
+1)Google
+
+2)Stackoverflow
+
+Special Thanks:-
+Special thanks to all the other mentors and members of IV LABS, without their support 
+this project wouldn’t have been completed successfully .
 
 
 
