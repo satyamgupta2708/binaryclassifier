@@ -47,7 +47,7 @@ II) **[Opencv library](https://pypi.org/project/opencv-python/)** :   it is a li
 
  ## Explanation Of The Code:
  
-1)Rename_Reshape():-This is the function for converting each image to a specified size (or   pixel) as it is mandatory to have equal size of all the images  to avoid  calculation  error . It imports PIL and OS libraries as they have required functions to resize image.
+1)**Rename_Reshape():**-This is the function for converting each image to a specified size (or   pixel) as it is mandatory to       have equal size of all the images  to avoid  calculation  error . It imports PIL and OS libraries as they have required       functions to resize image.
 
  
  
