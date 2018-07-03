@@ -118,17 +118,16 @@ II) **[Opencv library](https://pypi.org/project/opencv-python/)** :   it is a li
 
 ![](https://github.com/satyamgupta2708/binaryclassifier/blob/master/validation.png)
 
-Sources used :
+## Sources used :
 All the sources used are mostly hyper linked above with their key words apart from that 
 doubts forums have been continuously checked in case of errors encountered during coding of the project.
 
+1)[Google](https://www.google.com/)
 
-1)Google
+2)[Stackoverflow](https://stackoverflow.com/)
 
-2)Stackoverflow
-
-Special Thanks:-
-Special thanks to all the other mentors and members of IV LABS, without their support 
+## Special Thanks:-
+Special thanks to all the other mentors and members of **IV LABS**, without their support 
 this project wouldn’t have been completed successfully .
 
 
