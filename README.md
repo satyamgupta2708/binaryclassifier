@@ -58,6 +58,18 @@ II) **[Opencv library](https://pypi.org/project/opencv-python/)** :   it is a li
                    
 ![](https://github.com/satyamgupta2708/binaryclassifier/blob/master/csv.png)
 
+3) Pre_process():-This is the function in which a list is created which contains matrix of
+                            images in dataset as well as hundred randomly flipped images .also     
+                            in this function we have stored label of each image along with its 
+                          matrix . We have also used csv reader to read the csv file formed above.
+                          
+![](https://github.com/satyamgupta2708/binaryclassifier/blob/master/pre.png)   
+
+
+                          
+                          
+      
+
  
 
 
