@@ -99,9 +99,13 @@ II) **[Opencv library](https://pypi.org/project/opencv-python/)** :   it is a li
                         with the assumption 2 as described above .
           
  ![](https://github.com/satyamgupta2708/binaryclassifier/blob/master/threshold.png)                      
-      
-
+       
+10)**accuracy()**:- it calculates the accuracy of the classification done by the machine .
+                         It returns the list of predicted label.
  
+ ![]()
+ 
+
 
 
 
