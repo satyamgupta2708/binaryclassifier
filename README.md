@@ -128,7 +128,7 @@ doubts forums have been continuously checked in case of errors encountered durin
 
 ## Special Thanks:-
 Special thanks to all the other mentors and members of **IV LABS**, without their support 
-this project wouldn’t have been completed successfully .
+this project wouldn’t have been completed successfully.
 
 
 
