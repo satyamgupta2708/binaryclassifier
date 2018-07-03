@@ -84,8 +84,7 @@ II) **[Opencv library](https://pypi.org/project/opencv-python/)** :   it is a li
  ![](https://github.com/satyamgupta2708/binaryclassifier/blob/master/sigmoid.png)  
  
  7) **cost():**- This is the function used to calculate the deviation between the predicted
-                 actual output. The model or the formula is given and explained well  in the  
-                 course. 
+      actual output. The model or the formula is given and explained well  in the  course. 
                  
  ![](https://github.com/satyamgupta2708/binaryclassifier/blob/master/cost.png)
  
@@ -105,9 +104,8 @@ II) **[Opencv library](https://pypi.org/project/opencv-python/)** :   it is a li
  ![](https://github.com/satyamgupta2708/binaryclassifier/blob/master/accuracy.png)
  
 11)**Training():**-It is the function which calls the other function as required to produce the 
-                       desired output .It works upon the training dataset to produce the accuracy  
-                      of the machine on training dataset .
-
+   desired output .It works upon the training dataset to produce the accuracy of the machine on training dataset . 
+                  
 ![](https://github.com/satyamgupta2708/binaryclassifier/blob/master/training.png)
 
 
