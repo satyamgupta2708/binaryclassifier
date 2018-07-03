@@ -58,7 +58,7 @@ II) **[Opencv library](https://pypi.org/project/opencv-python/)** :   it is a li
                    
 ![](https://github.com/satyamgupta2708/binaryclassifier/blob/master/csv.png)
 
-3) Pre_process():-This is the function in which a list is created which contains matrix of
+3)**Pre_process():**-This is the function in which a list is created which contains matrix of
                             images in dataset as well as hundred randomly flipped images .also     
                             in this function we have stored label of each image along with its 
                           matrix . We have also used csv reader to read the csv file formed above.
@@ -66,8 +66,39 @@ II) **[Opencv library](https://pypi.org/project/opencv-python/)** :   it is a li
 ![](https://github.com/satyamgupta2708/binaryclassifier/blob/master/pre.png)   
 
 
-                          
-                          
+4)**Batch():**- this is the function used to create batches of the images so as to decide how
+                    many  images will pass through algorithm at a time .in this function a list is
+                    created and reshaped matrix of images is stored in it .Feature scaling of the     matrices is done to have all the elements between 0 and 1.
+                    
+ ![](https://github.com/satyamgupta2708/binaryclassifier/blob/master/batch.png)
+ 
+ 5)**weight_bias():**-This is the function used to generate two random matrix of calculated
+                             sizes named weight and bias. These matrices will be used to calculate 
+                             the output for linear regression model used in later part of the code.
+
+![](https://github.com/satyamgupta2708/binaryclassifier/blob/master/weight.png)
+
+6)**sigmoid():**- This is the model formula for logistic regression as described in course
+                       used to predict the output,or as to predict whether image is 0 or 1.
+                      Description of [Sigmoid Function](https://en.wikipedia.org/wiki/Sigmoid_function).
+
+ ![](https://github.com/satyamgupta2708/binaryclassifier/blob/master/sigmoid.png)  
+ 
+ 7) **cost():**- This is the function used to calculate the deviation between the predicted
+                 actual output. The model or the formula is given and explained well  in the  
+                 course. 
+                 
+ ![](https://github.com/satyamgupta2708/binaryclassifier/blob/master/cost.png)
+ 
+ 8)**gradient():**-This is the function which implements the gradient descent algorithm
+                      as described in the course .
+                      
+ ![](https://github.com/satyamgupta2708/binaryclassifier/blob/master/gradient.png)
+ 
+ 9)**Threshold():**-It creates a list of outputs as predicted by the machine in accordance 
+                        with the assumption 2 as described above .
+          
+ ![](https://github.com/satyamgupta2708/binaryclassifier/blob/master/threshold.png)                      
       
 
  
