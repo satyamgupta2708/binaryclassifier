@@ -112,7 +112,7 @@ II) **[Opencv library](https://pypi.org/project/opencv-python/)** :   it is a li
 ![](https://github.com/satyamgupta2708/binaryclassifier/blob/master/training.png)
 
 
-12)Validation():-it is the function which works similar to the training function only
+12)**Validation():**-it is the function which works similar to the training function only
                           difference being is that it works on validation dataset and produce 
                           accuracy of the machine for predicting output on validation dataset. 
 
