@@ -52,7 +52,11 @@ II) **[Opencv library](https://pypi.org/project/opencv-python/)** :   it is a li
 
 ![](https://github.com/satyamgupta2708/binaryclassifier/blob/master/rename.png)
 
-
+2)**label():**- This is the function for creating a excel sheet with csv extension having
+                   label(0 or 1) for each image against their name. It helps the machine to 
+                   know which image is SUV and which is sedan .
+                   
+![](https://github.com/satyamgupta2708/binaryclassifier/blob/master/csv.png)
 
  
 
