@@ -45,8 +45,15 @@ II) For the output of sigmoid function ,value>=0.5 is rounded of to 1 and value<
 I) **[Anaconda](https://anaconda.org/anaconda/python)**        :  try to have latest version of it ,others will work also .it is the suggested  environment for coding python programs .\
 II) **[Opencv library](https://pypi.org/project/opencv-python/)** :   it is a library which enables us to read the picture                                      and convert  it into matrix form of  elements having  value between 0-255.  
 
- ## Explanation Of The Code:  
+ ## Explanation Of The Code: 
+  1)Rename_Reshape():-This is the function for converting each image to a specified size
+                                     (or   pixel) as it is mandatory to have equal size of all the images    
+                                     to avoid  calculation  error . It imports PIL and OS libraries as 
+                                     they have required functions to resize image.
+
  
+ 
+
 
 
  
