@@ -35,10 +35,6 @@ should be  given to understand the GRADIENT DESCENT algorithm and its implementa
 **Dataset:**\
 Dataset is the  collection of the data about the categories in which your classifier
 is going to classify things. A good dataset is as important  as  it is to have an efficient and smooth code for good accuracy of the classification . Try to collect , unique and vast variety of data as much as possible  as it makes your classifier more efficient and accurate.\
-**Assumptions:**\
-I) As it is a binary classifier ,it will have only two categories which will have their own label ,either 0 or 1.
-So we have assumed 0 for sedan cars and 1 suv cars ,although it can have vice versa labels.\
-II) For the output of sigmoid function ,value>=0.5 is rounded of to 1 and value<0.5 is taken as 0.\
 
 ## INSTALLATIONS:
 
@@ -47,7 +43,12 @@ II) **[Opencv library](https://pypi.org/project/opencv-python/)** :   it is a li
 
  ## Explanation Of The Code:
  
-1)**Rename_Reshape():**-This is the function for converting each image to a specified size (or   pixel) as it is mandatory to    have equal size of all the images  to avoid  calculation  error . It imports PIL and OS libraries as they have required       functions to resize image.
+ **Assumptions:**\
+I) As it is a binary classifier ,it will have only two categories which will have their own label ,either 0 or 1.
+So we have assumed 0 for sedan cars and 1 suv cars ,although it can have vice versa labels.\
+II) For the output of sigmoid function ,value>=0.5 is rounded of to 1 and value<0.5 is taken as 0.\
+
+ 1)**Rename_Reshape():**-This is the function for converting each image to a specified size (or   pixel) as it is mandatory to    have equal size of all the images  to avoid  calculation  error . It imports PIL and OS libraries as they have required       functions to resize image.
 
 
 ![](https://github.com/satyamgupta2708/binaryclassifier/blob/master/rename.png)
