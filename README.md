@@ -28,11 +28,11 @@ c) Reinforcement Learning
 **Python programming Language:**\
 Before starting the project we studied basics of python programming language from 
 [py4e.com](https://www.py4e.com/lessons) source .It provided us good hands on  knowledge necessary to code the ML algorithm.\
-**Machine Learning algorithm:**\
+**Basic Knowledge of Machine Learning :**\
 It also required to have a good understanding of what machine learning is ?
 And what it’s implementation is about ,as well as necessity of it .Special focus
 should be  given to understand the GRADIENT DESCENT algorithm and its implementation. We studied it from the course provided by [coursera](https://www.coursera.org/learn/machine-learning) ,which was teached by Andrew Ng.\
-**Collection Of Dataset:**\
+**Dataset:**\
 Dataset is the  collection of the data about the categories in which your classifier
 is going to classify things. A good dataset is as important  as  it is to have an efficient and smooth code for good accuracy of the classification . Try to collect , unique and vast variety of data as much as possible  as it makes your classifier more efficient and accurate.\
 **Assumptions:**\
@@ -83,7 +83,7 @@ II) **[Opencv library](https://pypi.org/project/opencv-python/)** :   it is a li
 
  ![](https://github.com/satyamgupta2708/binaryclassifier/blob/master/sigmoid.png)  
  
- 7) **cost():**- This is the function used to calculate the deviation between the predicted
+ 7)**cost():**- This is the function used to calculate the deviation between the predicted
       actual output. The model or the formula is given and explained well  in the  course. 
                  
  ![](https://github.com/satyamgupta2708/binaryclassifier/blob/master/cost.png)
